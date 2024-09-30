@@ -9,7 +9,10 @@
   },
   "dependencies": {
     "@mdi/font": "7.4.47",
+    "axios": "^1.7.7",
+    "cookies-ts": "^1.0.5",
     "core-js": "^3.37.1",
+    "js-file-download": "^0.4.12",
     "roboto-fontface": "*",
     "vue": "^3.4.31",
     "vuetify": "^3.6.11"
@@ -31,7 +34,7 @@
     "eslint-plugin-vue": "^9.27.0",
     "pinia": "^2.1.7",
     "sass": "1.77.6",
-    "typescript": "^4.9.5",
+    "typescript": "^5.5.4",
     "unplugin-auto-import": "^0.17.6",
     "unplugin-fonts": "^1.1.1",
     "unplugin-vue-components": "^0.27.2",
